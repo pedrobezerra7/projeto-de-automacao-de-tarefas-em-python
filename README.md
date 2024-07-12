@@ -5,8 +5,3 @@ Nesse código, eu usei o 'pyautogui' para automatizar o mouse e teclado para cad
 Eu também criei uma interface gráfica para simular um sistema onde precisaria ser cadastrados todos esses clientes.
 
 
-Interface Gráfica:                                                                             
-![image](https://github.com/user-attachments/assets/cf5d136a-a82d-4d2e-b168-fb6decf4e802)
-
-Exemplo em vídeo do projeto em funcionamento:
-
